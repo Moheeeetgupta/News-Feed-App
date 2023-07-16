@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoEngageTestApp</string>
+    <string name="news_app">News App</string>
+    <string name="new_to_old">New-to-Old</string>
+    <string name="old_to_new">Old-to-New</string>
+    <string name="error_occurred_please_try_again">Error occurred. Please try again</string>
+    <string name="please_check_your_internet_connection">Please Check Your Internet Connection</string>
+    <string name="api_date_format">yyyy-MM-dd\'T\'HH:mm:ss\'Z\'</string>
+    <string name="default_sorting_type">Default</string>
+    <string name="dot">•</string>
+    <string name="at_the_rate">\@</string>
+</resources>
